@@ -104,7 +104,55 @@ var __st={"a":4227341,"offset":-21600,"reqid":"c596b5fc-b10a-4649-8b8c-a25662906
   <script src="https://web.archive.org/web/20151121050653js_/http://cdn.shopify.com/s/assets/themes_support/api.jquery-3fdf7f8ecde4022383bde5e52e9d15002ce0866a679c7fa8a02be79b7a21c3ec.js" type="text/javascript"></script>
 
   
-  
+ <!-- load BV loader -->
+<script async src="https://apps.bazaarvoice.com/deployments/test-anchovy/main_site/production/en_GB/bv.js"></script>
+
+    
+<script async type="text/javascript">
+      window.bvDCC = {
+        catalogData: {
+         locale: "en_GB",
+         catalogProducts: [{
+            "productId":"SP03",
+            "productName":"Boom Shakalaka Spider in Stream - Original Artwork 1 of 1",
+            "productDescription":"Hang this original 8.5 by 11 piece of art on your wall of choice. The Boom Shakalaka spider will delight your friends and satisfy your need for original hand drawn ART. Sharpie on Paper.",
+            "productImageURL":"file:///Users/gernot.heinzel/Documents/ie-onboarding-mock-implementation-master/public/static/boom-shakalaka-reprint-color_1024x1024.png",
+            "productPageURL":"file%3A%2F%2F%2FUsers%2Fgernot.heinzel%2FDocuments%2Fie-onboarding-mock-implementation-master%2Fpublic%2Fboom-shakalaka-spider-in-stream-original-artwork-1-of-1.html",           
+            "brandName":"Spidy",
+            "categoryPath" : [
+                {
+                   "id" : "123",
+                   "Name" : "art"
+                },
+                {
+                  "id" : "123-1",
+                  "Name" : "drawings"
+                },
+                {
+                  "id" : "123-1-9",
+                  "Name" : "reprints"
+                }],
+            "upcs":["133713371339"],
+            "manufacturerPartNumbers":["spider03"],
+            "family": "S01",
+            "inactive": false,
+          }]
+        }
+      };
+
+      window.bvCallback = function (BV) {
+          BV.pixel.trackEvent("CatalogUpdate", {
+              type: 'Product',
+              locale: window.bvDCC.catalogData.locale,
+              catalogProducts: window.bvDCC.catalogData.catalogProducts
+ 
+          });
+       }; 
+</script>       
+    
+    
+    
+    
 </head>
 
 <body>

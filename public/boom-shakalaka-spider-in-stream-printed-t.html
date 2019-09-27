@@ -103,6 +103,55 @@ var __st={"a":4227341,"offset":-21600,"reqid":"62520b86-cd84-4b3a-92d0-73d0e3e6d
 
   
   
+  <!-- load BV loader -->
+<script async src="https://apps.bazaarvoice.com/deployments/test-anchovy/main_site/production/en_GB/bv.js"></script>  
+
+    
+ <script async type="text/javascript">
+      window.bvDCC = {
+        catalogData: {
+         locale: "en_GB",
+         catalogProducts: [{
+            "productId":"SP04",
+            "productName":"Boom Shakalaka Spider in Stream - Printed T",
+            "productDescription":"Printed T-Shirt of the original dramatic Boom Shakalaka Spider in Stream. Acceptable from Casual up to Classy. Make your friends jealous and your date swoon with this all cotton T.",
+            "productImageURL":"file:///Users/gernot.heinzel/Documents/ie-onboarding-mock-implementation-master/public/static/boom-shakalaka-shirt-front_1024x1024.png",
+            "productPageURL":"file%3A%2F%2F%2FUsers%2Fgernot.heinzel%2FDocuments%2Fie-onboarding-mock-implementation-master%2Fpublic%2Fboom-shakalaka-spider-in-stream-printed-t.html",
+            "brandName":"Spidy",
+            "categoryPath" : [
+                {
+                   "id" : "123",
+                   "Name" : "art"
+                },
+                {
+                  "id" : "123-1",
+                  "Name" : "drawings"
+                },
+                {
+                  "id" : "123-1-9",
+                  "Name" : "reprints"
+                }],
+            "upcs":["133713371340"],
+            "manufacturerPartNumbers":["spider04"],
+            "family": "S01",
+            "inactive": false,
+          }]
+        }
+      };
+
+      window.bvCallback = function (BV) {
+          BV.pixel.trackEvent("CatalogUpdate", {
+              type: 'Product',
+              locale: window.bvDCC.catalogData.locale,
+              catalogProducts: window.bvDCC.catalogData.catalogProducts
+ 
+          });
+       }; 
+</script>          
+    
+    
+    
+    
 </head>
 
 <body>
@@ -128,7 +177,7 @@ function showTrackers(val) {
   if (val===trackerVal) return;
   var $ipp=$("wm-ipp");
   var $y=$("displayYearEl"),$m=$("displayMonthEl"),$d=$("displayDayEl");
-  if (val) {
+  if (val) 
     $ipp.className="hi";
   } else {
     $ipp.className="";
