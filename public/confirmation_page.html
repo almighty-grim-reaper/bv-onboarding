@@ -95,29 +95,24 @@ var __st={"a":4227341,"offset":-21600,"reqid":"5c14a197-e76f-4244-ba16-0baa143cf
   <script src="https://web.archive.org/web/20151120052756js_/http://cdn.shopify.com/s/assets/themes_support/api.jquery-3fdf7f8ecde4022383bde5e52e9d15002ce0866a679c7fa8a02be79b7a21c3ec.js" type="text/javascript"></script>
 
 <!-- load BV loader -->
-<script async src="https://apps.bazaarvoice.com/deployments/test-anchovy/main_site/production/en_GB/bv.js"></script>  
+<script async src="https://apps.bazaarvoice.com/deployments/test-anchovy/main_site/staging/en_GB/bv.js"></script>  
 
     
  <!--load Transaction event and parameters-->
 <script>
 window.bvCallback = function (BV) {
   BV.pixel.trackTransaction({
-    "currency" : "value",
-    "orderId" : "value",
-    "total" : "value",
+    "currency" : "GBP",
+    "orderId" : "1337",
+    "total" : "100",
     "items" : [
       {
-        "price" : "value",
-        "quantity" : "value",
-        "productId" : "value",
-        "optional_item_parameter" : "value"
+        "price" : "100",
+        "quantity" : "1",
+        "productId" : "SP02",
       },
       ...
     ],
-    "optional_order_parameter" : "value",
-    ...
-    "optional_PII_parameter" : "value",
-    ...
   });
 };
 </script>   
