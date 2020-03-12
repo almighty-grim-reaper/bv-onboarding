@@ -1,0 +1,365 @@
+#EXTM3U
+## A1TV_Plus_HD, Stand: 2019-09-06
+## Kodi, A1-Logo
+
+#EXTINF:-1 tvg-id="" tvg-num="1" tvg-name="ORF 1" tvg-logo="1.png" group-title="A1TV" radio=false,ORF 1
+rtp://@239.2.16.1:8208
+#EXTINF:-1 tvg-id="" tvg-num="2" tvg-name="ORF 2-W" tvg-logo="1.png" group-title="A1TV" radio=false,ORF 2-W
+rtp://@239.2.16.2:8208
+#EXTINF:-1 tvg-id="" tvg-num="3" tvg-name="ATV" tvg-logo="1.png" group-title="A1TV" radio=false,ATV
+rtp://@239.2.16.3:8208
+#EXTINF:-1 tvg-id="" tvg-num="4" tvg-name="PULS 4" tvg-logo="1.png" group-title="A1TV" radio=false,PULS 4
+rtp://@239.2.16.4:8208
+#EXTINF:-1 tvg-id="" tvg-num="5" tvg-name="Servus TV" tvg-logo="1.png" group-title="A1TV" radio=false,Servus TV
+rtp://@239.2.16.11:8208
+#EXTINF:-1 tvg-id="" tvg-num="6" tvg-name="SAT.1 Austria" tvg-logo="1.png" group-title="A1TV" radio=false,SAT.1 Austria
+rtp://@239.2.16.5:8208
+#EXTINF:-1 tvg-id="" tvg-num="7" tvg-name="ProSieben Austria" tvg-logo="1.png" group-title="A1TV" radio=false,ProSieben Austria
+rtp://@239.2.16.7:8208
+#EXTINF:-1 tvg-id="" tvg-num="8" tvg-name="kabel eins Austria" tvg-logo="1.png" group-title="A1TV" radio=false,kabel eins Austria
+rtp://@239.2.16.13:8208
+#EXTINF:-1 tvg-id="" tvg-num="9" tvg-name="RTL Austria" tvg-logo="1.png" group-title="A1TV" radio=false,RTL Austria
+rtp://@239.2.16.6:8208
+#EXTINF:-1 tvg-id="" tvg-num="10" tvg-name="A1 Now" tvg-logo="1.png" group-title="A1TV" radio=false,A1 Now
+rtp://@239.2.16.130:8208
+#EXTINF:-1 tvg-id="" tvg-num="11" tvg-name="VOX Austria" tvg-logo="1.png" group-title="A1TV" radio=false,VOX Austria
+rtp://@239.2.16.8:8208
+#EXTINF:-1 tvg-id="" tvg-num="12" tvg-name="sixx Austria" tvg-logo="1.png" group-title="A1TV" radio=false,sixx Austria
+rtp://@239.2.16.9:8208
+#EXTINF:-1 tvg-id="" tvg-num="13" tvg-name="RTL II Austria" tvg-logo="1.png" group-title="A1TV" radio=false,RTL II Austria
+rtp://@239.2.16.12:8208
+#EXTINF:-1 tvg-id="" tvg-num="14" tvg-name="ATV//" tvg-logo="1.png" group-title="A1TV" radio=false,ATV//
+rtp://@239.2.16.91:8208
+#EXTINF:-1 tvg-id="" tvg-num="15" tvg-name="SAT.1-GOLD" tvg-logo="1.png" group-title="A1TV" radio=false,SAT.1-GOLD
+rtp://@239.2.16.27:8208
+#EXTINF:-1 tvg-id="" tvg-num="16" tvg-name="ProSieben-MAXX" tvg-logo="1.png" group-title="A1TV" radio=false,ProSieben-MAXX
+rtp://@239.2.16.28:8208
+#EXTINF:-1 tvg-id="" tvg-num="17" tvg-name="NITRO." tvg-logo="1.png" group-title="A1TV" radio=false,NITRO.
+rtp://@239.2.16.33:8208
+#EXTINF:-1 tvg-id="" tvg-num="18" tvg-name="Das Erste" tvg-logo="1.png" group-title="A1TV" radio=false,Das Erste
+rtp://@239.2.16.16:8208
+#EXTINF:-1 tvg-id="" tvg-num="19" tvg-name="ZDF" tvg-logo="1.png" group-title="A1TV" radio=false,ZDF
+rtp://@239.2.16.17:8208
+#EXTINF:-1 tvg-id="" tvg-num="20" tvg-name="kabel eins Doku Austria" tvg-logo="1.png" group-title="A1TV" radio=false,kabel eins Doku Austria
+rtp://@239.2.16.19:8208
+#EXTINF:-1 tvg-id="" tvg-num="21" tvg-name="OE24.TV" tvg-logo="1.png" group-title="A1TV" radio=false,OE24.TV
+rtp://@239.2.16.105:8208
+#EXTINF:-1 tvg-id="" tvg-num="22" tvg-name="ORF III" tvg-logo="1.png" group-title="A1TV" radio=false,ORF III
+rtp://@239.2.16.29:8208
+#EXTINF:-1 tvg-id="" tvg-num="23" tvg-name="3sat" tvg-logo="1.png" group-title="A1TV" radio=false,3sat
+rtp://@239.2.16.21:8208
+#EXTINF:-1 tvg-id="" tvg-num="24" tvg-name="arte" tvg-logo="1.png" group-title="A1TV" radio=false,arte
+rtp://@239.2.16.22:8208
+#EXTINF:-1 tvg-id="" tvg-num="25" tvg-name="DMAX Austria" tvg-logo="1.png" group-title="A1TV" radio=false,DMAX Austria
+rtp://@239.2.16.30:8208
+#EXTINF:-1 tvg-id="" tvg-num="26" tvg-name="Sport1" tvg-logo="1.png" group-title="A1TV" radio=false,Sport1
+rtp://@239.2.16.26:8208
+#EXTINF:-1 tvg-id="" tvg-num="27" tvg-name="ORF SPORT +" tvg-logo="1.png" group-title="A1TV" radio=false,ORF SPORT +
+rtp://@239.2.16.78:8208
+#EXTINF:-1 tvg-id="" tvg-num="28" tvg-name="Super RTL" tvg-logo="1.png" group-title="A1TV" radio=false,Super RTL
+rtp://@239.2.16.23:8208
+#EXTINF:-1 tvg-id="" tvg-num="29" tvg-name="KIKA" tvg-logo="1.png" group-title="A1TV" radio=false,KIKA
+rtp://@239.2.16.24:8208
+#EXTINF:-1 tvg-id="" tvg-num="30" tvg-name="nick" tvg-logo="1.png" group-title="A1TV" radio=false,nick
+rtp://@239.2.16.25:8208
+#EXTINF:-1 tvg-id="" tvg-num="31" tvg-name="Disney Channel" tvg-logo="1.png" group-title="A1TV" radio=false,Disney Channel
+rtp://@239.2.16.14:8208
+#EXTINF:-1 tvg-id="" tvg-num="32" tvg-name="RIC" tvg-logo="1.png" group-title="A1TV" radio=false,RIC
+rtp://@239.2.16.117:8208
+#EXTINF:-1 tvg-id="" tvg-num="34" tvg-name="gotv" tvg-logo="1.png" group-title="A1TV" radio=false,gotv
+rtp://@239.2.16.36:8208
+#EXTINF:-1 tvg-id="" tvg-num="35" tvg-name="Comedy Central" tvg-logo="1.png" group-title="A1TV" radio=false,Comedy Central
+rtp://@239.2.16.35:8208
+#EXTINF:-1 tvg-id="" tvg-num="36" tvg-name="Deluxe Music" tvg-logo="1.png" group-title="A1TV" radio=false,Deluxe Music
+rtp://@239.2.16.108:8208
+#EXTINF:-1 tvg-id="" tvg-num="37" tvg-name="N24 Doku Austria" tvg-logo="1.png" group-title="A1TV" radio=false,N24 Doku Austria
+rtp://@239.2.16.92:8208
+#EXTINF:-1 tvg-id="" tvg-num="38" tvg-name="ntv" tvg-logo="1.png" group-title="A1TV" radio=false,ntv
+rtp://@239.2.16.52:8208
+#EXTINF:-1 tvg-id="" tvg-num="39" tvg-name="CNN international" tvg-logo="1.png" group-title="A1TV" radio=false,CNN international
+rtp://@239.2.16.55:8208
+#EXTINF:-1 tvg-id="" tvg-num="40" tvg-name="ZDF_neo" tvg-logo="1.png" group-title="A1TV" radio=false,ZDF_neo
+rtp://@239.2.16.44:8208
+#EXTINF:-1 tvg-id="" tvg-num="41" tvg-name="ZDFinfo" tvg-logo="1.png" group-title="A1TV" radio=false,ZDFinfo
+rtp://@239.2.16.43:8208
+#EXTINF:-1 tvg-id="" tvg-num="42" tvg-name="Zee.One" tvg-logo="1.png" group-title="A1TV" radio=false,Zee.One
+rtp://@239.2.16.40:8208
+#EXTINF:-1 tvg-id="" tvg-num="43" tvg-name="phoenix" tvg-logo="1.png" group-title="A1TV" radio=false,phoenix
+rtp://@239.2.16.39:8208
+#EXTINF:-1 tvg-id="" tvg-num="45" tvg-name="tagesschau24" tvg-logo="1.png" group-title="A1TV" radio=false,tagesschau24
+rtp://@239.2.16.41:8208
+#EXTINF:-1 tvg-id="" tvg-num="46" tvg-name="one" tvg-logo="1.png" group-title="A1TV" radio=false,one
+rtp://@239.2.16.42:8208
+#EXTINF:-1 tvg-id="" tvg-num="47" tvg-name="ARD-alpha" tvg-logo="1.png" group-title="A1TV" radio=false,ARD-alpha
+rtp://@239.2.16.38:8208
+#EXTINF:-1 tvg-id="" tvg-num="48" tvg-name="Tele 5" tvg-logo="1.png" group-title="A1TV" radio=false,Tele 5
+rtp://@239.2.16.15:8208
+#EXTINF:-1 tvg-id="" tvg-num="49" tvg-name="BR" tvg-logo="1.png" group-title="A1TV" radio=false,BR
+rtp://@239.2.16.18:8208
+#EXTINF:-1 tvg-id="" tvg-num="50" tvg-name="SWR BW" tvg-logo="1.png" group-title="A1TV" radio=false,SWR BW
+rtp://@239.2.16.46:8208
+#EXTINF:-1 tvg-id="" tvg-num="51" tvg-name="mdr" tvg-logo="1.png" group-title="A1TV" radio=false,mdr
+rtp://@239.2.16.47:8208
+#EXTINF:-1 tvg-id="" tvg-num="52" tvg-name="NDR" tvg-logo="1.png" group-title="A1TV" radio=false,NDR
+rtp://@239.2.16.48:8208
+#EXTINF:-1 tvg-id="" tvg-num="53" tvg-name="WDR" tvg-logo="1.png" group-title="A1TV" radio=false,WDR
+rtp://@239.2.16.49:8208
+#EXTINF:-1 tvg-id="" tvg-num="54" tvg-name="hr" tvg-logo="1.png" group-title="A1TV" radio=false,hr
+rtp://@239.2.16.50:8208
+#EXTINF:-1 tvg-id="" tvg-num="55" tvg-name="rbb" tvg-logo="1.png" group-title="A1TV" radio=false,rbb
+rtp://@239.2.16.51:8208
+#EXTINF:-1 tvg-id="" tvg-num="56" tvg-name="SR" tvg-logo="1.png" group-title="A1TV" radio=false,SR
+rtp://@239.2.16.74:8208
+#EXTINF:-1 tvg-id="" tvg-num="57" tvg-name="BBC World News" tvg-logo="1.png" group-title="A1TV" radio=false,BBC World News
+rtp://@239.2.16.57:8208
+#EXTINF:-1 tvg-id="" tvg-num="58" tvg-name="BBC Entertainment" tvg-logo="1.png" group-title="A1TV" radio=false,BBC Entertainment
+rtp://@239.2.16.58:8208
+#EXTINF:-1 tvg-id="" tvg-num="59" tvg-name="Euronews" tvg-logo="1.png" group-title="A1TV" radio=false,Euronews
+rtp://@239.2.16.53:8208
+#EXTINF:-1 tvg-id="" tvg-num="60" tvg-name="Bloomberg TV" tvg-logo="1.png" group-title="A1TV" radio=false,Bloomberg TV
+rtp://@239.2.16.54:8208
+#EXTINF:-1 tvg-id="" tvg-num="61" tvg-name="Al Jazeera" tvg-logo="1.png" group-title="A1TV" radio=false,Al Jazeera
+rtp://@239.2.16.56:8208
+#EXTINF:-1 tvg-id="" tvg-num="62" tvg-name="TV5 Monde Europe" tvg-logo="1.png" group-title="A1TV" radio=false,TV5 Monde Europe
+rtp://@239.2.16.60:8208
+#EXTINF:-1 tvg-id="" tvg-num="63" tvg-name="France24" tvg-logo="1.png" group-title="A1TV" radio=false,France24
+rtp://@239.2.16.61:8208
+#EXTINF:-1 tvg-id="" tvg-num="64" tvg-name="Russia Today" tvg-logo="1.png" group-title="A1TV" radio=false,Russia Today
+rtp://@239.2.16.77:8208
+#EXTINF:-1 tvg-id="" tvg-num="65" tvg-name="Channel One Russia" tvg-logo="1.png" group-title="A1TV" radio=false,Channel One Russia
+rtp://@239.2.16.102:8208
+#EXTINF:-1 tvg-id="" tvg-num="66" tvg-name="ORF 2-B" tvg-logo="1.png" group-title="A1TV" radio=false,ORF 2-B
+rtp://@239.2.16.65:8208
+#EXTINF:-1 tvg-id="" tvg-num="67" tvg-name="ORF 2-K" tvg-logo="1.png" group-title="A1TV" radio=false,ORF 2-K
+rtp://@239.2.16.66:8208
+#EXTINF:-1 tvg-id="" tvg-num="68" tvg-name="ORF 2-NÖ" tvg-logo="1.png" group-title="A1TV" radio=false,ORF 2-NÖ
+rtp://@239.2.16.67:8208
+#EXTINF:-1 tvg-id="" tvg-num="69" tvg-name="ORF 2-OÖ" tvg-logo="1.png" group-title="A1TV" radio=false,ORF 2-OÖ
+rtp://@239.2.16.68:8208
+#EXTINF:-1 tvg-id="" tvg-num="70" tvg-name="ORF 2-S" tvg-logo="1.png" group-title="A1TV" radio=false,ORF 2-S
+rtp://@239.2.16.69:8208
+#EXTINF:-1 tvg-id="" tvg-num="71" tvg-name="ORF 2-St" tvg-logo="1.png" group-title="A1TV" radio=false,ORF 2-St
+rtp://@239.2.16.70:8208
+#EXTINF:-1 tvg-id="" tvg-num="72" tvg-name="ORF 2-T" tvg-logo="1.png" group-title="A1TV" radio=false,ORF 2-T
+rtp://@239.2.16.71:8208
+#EXTINF:-1 tvg-id="" tvg-num="73" tvg-name="ORF 2-V" tvg-logo="1.png" group-title="A1TV" radio=false,ORF 2-V
+rtp://@239.2.16.72:8208
+#EXTINF:-1 tvg-id="" tvg-num="74" tvg-name="ORF 2 Europe" tvg-logo="1.png" group-title="A1TV" radio=false,ORF 2 Europe
+rtp://@239.2.16.116:8208
+#EXTINF:-1 tvg-id="" tvg-num="75" tvg-name="Ö3 Visual Radio" tvg-logo="1.png" group-title="A1TV" radio=false,Ö3 Visual Radio
+rtp://@239.2.16.73:8208
+#EXTINF:-1 tvg-id="" tvg-num="77" tvg-name="RTLplus Austria" tvg-logo="1.png" group-title="A1TV" radio=false,RTLplus Austria
+rtp://@239.2.16.83:8208
+#EXTINF:-1 tvg-id="" tvg-num="78" tvg-name="TLC" tvg-logo="1.png" group-title="A1TV" radio=false,TLC
+rtp://@239.2.16.110:8208
+#EXTINF:-1 tvg-id="" tvg-num="83" tvg-name="1-2-3.tv" tvg-logo="1.png" group-title="A1TV" radio=false,1-2-3.tv
+rtp://@239.2.16.85:8208
+#EXTINF:-1 tvg-id="" tvg-num="84" tvg-name="QVC" tvg-logo="1.png" group-title="A1TV" radio=false,QVC
+rtp://@239.2.16.31:8208
+#EXTINF:-1 tvg-id="" tvg-num="86" tvg-name="HSE24" tvg-logo="1.png" group-title="A1TV" radio=false,HSE24
+rtp://@239.2.16.32:8208
+#EXTINF:-1 tvg-id="" tvg-num="91" tvg-name="Media Shop" tvg-logo="1.png" group-title="A1TV" radio=false,Media Shop
+rtp://@239.2.16.94:8208
+#EXTINF:-1 tvg-id="" tvg-num="92" tvg-name="Melodie TV" tvg-logo="1.png" group-title="A1TV" radio=false,Melodie TV
+rtp://@239.2.16.37:8208
+#EXTINF:-1 tvg-id="" tvg-num="93" tvg-name="Astro TV" tvg-logo="1.png" group-title="A1TV" radio=false,Astro TV
+rtp://@239.2.16.93:8208
+#EXTINF:-1 tvg-id="" tvg-num="94" tvg-name="Bibel TV" tvg-logo="1.png" group-title="A1TV" radio=false,Bibel TV
+rtp://@239.2.16.81:8208
+#EXTINF:-1 tvg-id="" tvg-num="95" tvg-name="K-TV" tvg-logo="1.png" group-title="A1TV" radio=false,K-TV
+rtp://@239.2.16.82:8208
+#EXTINF:-1 tvg-id="" tvg-num="96" tvg-name="Sky Sport Austria 1" tvg-logo="1.png" group-title="A1TV" radio=false,Sky Sport Austria 1
+rtp://@239.2.16.86:8208
+#EXTINF:-1 tvg-id="" tvg-num="97" tvg-name="Sky Sport News" tvg-logo="1.png" group-title="A1TV" radio=false,Sky Sport News
+rtp://@239.2.16.45:8208
+#EXTINF:-1 tvg-id="" tvg-num="98" tvg-name="LAOLA1.tv" tvg-logo="1.png" group-title="A1TV" radio=false,LAOLA1.tv
+rtp://@239.2.16.99:8208
+#EXTINF:-1 tvg-id="" tvg-num="99" tvg-name="Eurosport 1" tvg-logo="1.png" group-title="A1TV" radio=false,Eurosport 1
+rtp://@239.2.16.80:8208
+#EXTINF:-1 tvg-id="" tvg-num="100" tvg-name="Arcadia TV" tvg-logo="1.png" group-title="A1TV" radio=false,Arcadia TV
+rtp://@239.2.16.88:8208
+#EXTINF:-1 tvg-id="" tvg-num="104" tvg-name="Kanal 7 Avrupa" tvg-logo="1.png" group-title="A1TV" radio=false,Kanal 7 Avrupa
+rtp://@239.2.16.97:8208
+#EXTINF:-1 tvg-id="" tvg-num="105" tvg-name="RTS Sat" tvg-logo="1.png" group-title="A1TV" radio=false,RTS Sat
+rtp://@239.2.16.63:8208
+#EXTINF:-1 tvg-id="" tvg-num="106" tvg-name="Duna World" tvg-logo="1.png" group-title="A1TV" radio=false,Duna World
+rtp://@239.2.16.84:8208
+#EXTINF:-1 tvg-id="" tvg-num="107" tvg-name="HRT 1" tvg-logo="1.png" group-title="A1TV" radio=false,HRT 1
+rtp://@239.2.16.64:8208
+#EXTINF:-1 tvg-id="" tvg-num="108" tvg-name="BN TV" tvg-logo="1.png" group-title="A1TV" radio=false,BN TV
+rtp://@239.2.16.95:8208
+#EXTINF:-1 tvg-id="" tvg-num="109" tvg-name="BN Music" tvg-logo="1.png" group-title="A1TV" radio=false,BN Music
+rtp://@239.2.16.115:8208
+#EXTINF:-1 tvg-id="" tvg-num="110" tvg-name="CT24" tvg-logo="1.png" group-title="A1TV" radio=false,CT24
+rtp://@239.2.16.98:8208
+#EXTINF:-1 tvg-id="" tvg-num="111" tvg-name="RTL Croatia World" tvg-logo="1.png" group-title="A1TV" radio=false,RTL Croatia World
+rtp://@239.2.16.118:8208
+#EXTINF:-1 tvg-id="" tvg-num="112" tvg-name="Pro TV Int" tvg-logo="1.png" group-title="A1TV" radio=false,Pro TV Int
+rtp://@239.2.16.100:8208
+#EXTINF:-1 tvg-id="" tvg-num="114" tvg-name="RTR Planeta" tvg-logo="1.png" group-title="A1TV" radio=false,RTR Planeta
+rtp://@239.2.16.103:8208
+#EXTINF:-1 tvg-id="" tvg-num="116" tvg-name="TVE Internacional" tvg-logo="1.png" group-title="A1TV" radio=false,TVE Internacional
+rtp://@239.2.16.106:8208
+#EXTINF:-1 tvg-id="" tvg-num="117" tvg-name="Record TV" tvg-logo="1.png" group-title="A1TV" radio=false,Record TV
+rtp://@239.2.16.107:8208
+#EXTINF:-1 tvg-id="" tvg-num="118" tvg-name="CGTN" tvg-logo="1.png" group-title="A1TV" radio=false,CGTN
+rtp://@239.2.16.104:8208
+#EXTINF:-1 tvg-id="" tvg-num="119" tvg-name="TVP Polonia" tvg-logo="1.png" group-title="A1TV" radio=false,TVP Polonia
+rtp://@239.2.16.119:8208
+#EXTINF:-1 tvg-id="" tvg-num="120" tvg-name="OKTO" tvg-logo="1.png" group-title="A1TV" radio=false,OKTO
+rtp://@239.2.16.34:8208
+#EXTINF:-1 tvg-id="" tvg-num="125" tvg-name="LT1" tvg-logo="1.png" group-title="A1TV" radio=false,LT1
+rtp://@239.2.16.87:8208
+#EXTINF:-1 tvg-id="" tvg-num="130" tvg-name="Tirol TV" tvg-logo="1.png" group-title="A1TV" radio=false,Tirol TV
+rtp://@239.2.16.109:8208
+#EXTINF:-1 tvg-id="" tvg-num="131" tvg-name="Folx TV" tvg-logo="1.png" group-title="A1TV" radio=false,Folx TV
+rtp://@239.2.16.89:8208
+#EXTINF:-1 tvg-id="" tvg-num="134" tvg-name="RT Salzburg" tvg-logo="1.png" group-title="A1TV" radio=false,RT Salzburg
+rtp://@239.2.16.112:8208
+#EXTINF:-1 tvg-id="" tvg-num="301" tvg-name="ORF 1 HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,ORF 1 HD
+rtp://@239.2.24.1:8208
+#EXTINF:-1 tvg-id="" tvg-num="302" tvg-name="ORF 2-W HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,ORF 2-W HD
+rtp://@239.2.24.2:8208
+#EXTINF:-1 tvg-id="" tvg-num="303" tvg-name="ATV HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,ATV HD
+rtp://@239.2.24.25:8208
+#EXTINF:-1 tvg-id="" tvg-num="305" tvg-name="Servus TV HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,Servus TV HD
+rtp://@239.2.24.3:8208
+#EXTINF:-1 tvg-id="" tvg-num="310" tvg-name="A1 Now HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,A1 Now HD
+rtp://@239.2.24.70:8208
+#EXTINF:-1 tvg-id="" tvg-num="314" tvg-name="ATV// HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,ATV// HD
+rtp://@239.2.24.41:8208
+#EXTINF:-1 tvg-id="" tvg-num="318" tvg-name="Das Erste HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,Das Erste HD
+rtp://@239.2.24.4:8208
+#EXTINF:-1 tvg-id="" tvg-num="319" tvg-name="ZDF HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,ZDF HD
+rtp://@239.2.24.5:8208
+#EXTINF:-1 tvg-id="" tvg-num="322" tvg-name="ORF III HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,ORF III HD
+rtp://@239.2.24.26:8208
+#EXTINF:-1 tvg-id="" tvg-num="323" tvg-name="3sat HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,3sat HD
+rtp://@239.2.24.7:8208
+#EXTINF:-1 tvg-id="" tvg-num="324" tvg-name="arte HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,arte HD
+rtp://@239.2.24.6:8208
+#EXTINF:-1 tvg-id="" tvg-num="327" tvg-name="ORF SPORT + HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,ORF SPORT + HD
+rtp://@239.2.24.39:8208
+#EXTINF:-1 tvg-id="" tvg-num="329" tvg-name="KIKA HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,KIKA HD
+rtp://@239.2.24.16:8208
+#EXTINF:-1 tvg-id="" tvg-num="333" tvg-name="Brandnite TV HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,Brandnite TV HD
+rtp://@239.2.24.53:8208
+#EXTINF:-1 tvg-id="" tvg-num="335" tvg-name="Comedy Central HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,Comedy Central HD
+rtp://@239.2.24.24:8208
+#EXTINF:-1 tvg-id="" tvg-num="339" tvg-name="SRF INFO HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,SRF INFO HD
+rtp://@239.2.24.54:8208
+#EXTINF:-1 tvg-id="" tvg-num="340" tvg-name="ZDF_neo HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,ZDF_neo HD
+rtp://@239.2.24.14:8208
+#EXTINF:-1 tvg-id="" tvg-num="341" tvg-name="ZDFinfo HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,ZDFinfo HD
+rtp://@239.2.24.13:8208
+#EXTINF:-1 tvg-id="" tvg-num="342" tvg-name="Zee.One HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,Zee.One HD
+rtp://@239.2.24.15:8208
+#EXTINF:-1 tvg-id="" tvg-num="343" tvg-name="phoenix HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,phoenix HD
+rtp://@239.2.24.11:8208
+#EXTINF:-1 tvg-id="" tvg-num="345" tvg-name="tagesschau24 HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,tagesschau24 HD
+rtp://@239.2.24.31:8208
+#EXTINF:-1 tvg-id="" tvg-num="346" tvg-name="one HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,one HD
+rtp://@239.2.24.29:8208
+#EXTINF:-1 tvg-id="" tvg-num="349" tvg-name="BR HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,BR HD
+rtp://@239.2.24.12:8208
+#EXTINF:-1 tvg-id="" tvg-num="350" tvg-name="SWR BW HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,SWR BW HD
+rtp://@239.2.24.18:8208
+#EXTINF:-1 tvg-id="" tvg-num="351" tvg-name="mdr HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,mdr HD
+rtp://@239.2.24.32:8208
+#EXTINF:-1 tvg-id="" tvg-num="352" tvg-name="NDR HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,NDR HD
+rtp://@239.2.24.17:8208
+#EXTINF:-1 tvg-id="" tvg-num="353" tvg-name="WDR HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,WDR HD
+rtp://@239.2.24.19:8208
+#EXTINF:-1 tvg-id="" tvg-num="354" tvg-name="hr HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,hr HD
+rtp://@239.2.24.33:8208
+#EXTINF:-1 tvg-id="" tvg-num="357" tvg-name="BBC World News HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,BBC World News HD
+rtp://@239.2.24.9:8208
+#EXTINF:-1 tvg-id="" tvg-num="366" tvg-name="ORF 2-B HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,ORF 2-B HD
+rtp://@239.2.24.44:8208
+#EXTINF:-1 tvg-id="" tvg-num="367" tvg-name="ORF 2-K HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,ORF 2-K HD
+rtp://@239.2.24.46:8208
+#EXTINF:-1 tvg-id="" tvg-num="368" tvg-name="ORF 2-NÖ HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,ORF 2-NÖ HD
+rtp://@239.2.24.42:8208
+#EXTINF:-1 tvg-id="" tvg-num="369" tvg-name="ORF 2-OÖ HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,ORF 2-OÖ HD
+rtp://@239.2.24.43:8208
+#EXTINF:-1 tvg-id="" tvg-num="370" tvg-name="ORF 2-S HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,ORF 2-S HD
+rtp://@239.2.24.47:8208
+#EXTINF:-1 tvg-id="" tvg-num="371" tvg-name="ORF 2-St HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,ORF 2-St HD
+rtp://@239.2.24.45:8208
+#EXTINF:-1 tvg-id="" tvg-num="372" tvg-name="ORF 2-T HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,ORF 2-T HD
+rtp://@239.2.24.48:8208
+#EXTINF:-1 tvg-id="" tvg-num="373" tvg-name="ORF 2-V HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,ORF 2-V HD
+rtp://@239.2.24.49:8208
+#EXTINF:-1 tvg-id="" tvg-num="379" tvg-name="ANIXE HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,ANIXE HD
+rtp://@239.2.24.8:8208
+#EXTINF:-1 tvg-id="" tvg-num="380" tvg-name="OE24.TV HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,OE24.TV HD
+rtp://@239.2.24.65:8208
+#EXTINF:-1 tvg-id="" tvg-num="384" tvg-name="QVC HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,QVC HD
+rtp://@239.2.24.20:8208
+#EXTINF:-1 tvg-id="" tvg-num="385" tvg-name="QVC Plus HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,QVC Plus HD
+rtp://@239.2.24.34:8208
+#EXTINF:-1 tvg-id="" tvg-num="386" tvg-name="HSE24 HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,HSE24 HD
+rtp://@239.2.24.21:8208
+#EXTINF:-1 tvg-id="" tvg-num="387" tvg-name="HSE24 Extra HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,HSE24 Extra HD
+rtp://@239.2.24.35:8208
+#EXTINF:-1 tvg-id="" tvg-num="388" tvg-name="Sonnenklar.TV HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,Sonnenklar.TV HD
+rtp://@239.2.24.22:8208
+#EXTINF:-1 tvg-id="" tvg-num="389" tvg-name="Juwelo HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,Juwelo HD
+rtp://@239.2.24.23:8208
+#EXTINF:-1 tvg-id="" tvg-num="390" tvg-name="pearl.tv HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,pearl.tv HD
+rtp://@239.2.24.36:8208
+#EXTINF:-1 tvg-id="" tvg-num="395" tvg-name="Sky Sport Austria 1 HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,Sky Sport Austria 1 HD
+rtp://@239.2.24.61:8208
+#EXTINF:-1 tvg-id="" tvg-num="396" tvg-name="KIT TV HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,KIT TV HD
+rtp://@239.2.24.52:8208
+#EXTINF:-1 tvg-id="" tvg-num="397" tvg-name="Sky Sport News HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,Sky Sport News HD
+rtp://@239.2.24.30:8208
+#EXTINF:-1 tvg-id="" tvg-num="398" tvg-name="LAOLA1.tv HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,LAOLA1.tv HD
+rtp://@239.2.24.50:8208
+#EXTINF:-1 tvg-id="" tvg-num="399" tvg-name="Alpentour HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,Alpentour HD
+rtp://@239.2.24.66:8208
+#EXTINF:-1 tvg-id="" tvg-num="400" tvg-name="Arcadia TV HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,Arcadia TV HD
+rtp://@239.2.24.55:8208
+#EXTINF:-1 tvg-id="" tvg-num="421" tvg-name="SCHAU TV HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,SCHAU TV HD
+rtp://@239.2.24.37:8208
+#EXTINF:-1 tvg-id="" tvg-num="426" tvg-name="W24 HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,W24 HD
+rtp://@239.2.24.56:8208
+#EXTINF:-1 tvg-id="" tvg-num="428" tvg-name="ÖAMTC HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,ÖAMTC HD
+rtp://@239.2.24.51:8208
+#EXTINF:-1 tvg-id="" tvg-num="429" tvg-name="Ländle TV HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,Ländle TV HD
+rtp://@239.2.24.38:8208
+#EXTINF:-1 tvg-id="" tvg-num="431" tvg-name="R9 Österreich HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,R9 Österreich HD
+rtp://@239.2.24.57:8208
+#EXTINF:-1 tvg-id="" tvg-num="434" tvg-name="RT Salzburg HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,RT Salzburg HD
+rtp://@239.2.24.64:8208
+#EXTINF:-1 tvg-id="" tvg-num="435" tvg-name="Austria24 TV HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,Austria24 TV HD
+rtp://@239.2.24.40:8208
+#EXTINF:-1 tvg-id="" tvg-num="436" tvg-name="FS1 HD" tvg-logo="1.png" group-title="A1TV-HD" radio=false,FS1 HD
+rtp://@239.2.24.58:8208
+
+## A1TV_ORF_Radio-Sender
+
+#EXTINF:-1 tvg-id="" tvg-num="1001" tvg-name="Ö1" tvg-logo="2.png" group-title="A1TV ORF-Radio" radio=true,Ö1
+udp://@239.0.144.1:8208
+#EXTINF:-1 tvg-id="" tvg-num="1002" tvg-name="Radio Wien" tvg-logo="2.png" group-title="A1TV ORF-Radio" radio=true,Radio Wien
+udp://@239.0.144.2:8208
+#EXTINF:-1 tvg-id="" tvg-num="1003" tvg-name="Hitradio Ö3" tvg-logo="2.png" group-title="A1TV ORF-Radio" radio=true,Hitradio Ö3
+udp://@239.0.144.3:8208
+#EXTINF:-1 tvg-id="" tvg-num="1004" tvg-name="FM4" tvg-logo="2.png" group-title="A1TV ORF-Radio" radio=true,FM4
+udp://@239.0.144.4:8208
+#EXTINF:-1 tvg-id="" tvg-num="1005" tvg-name="Radio Niederösterreich" tvg-logo="2.png" group-title="A1TV ORF-Radio" radio=true,Radio Niederösterreich
+udp://@239.0.144.5:8208
+#EXTINF:-1 tvg-id="" tvg-num="1006" tvg-name="Radio Burgenland" tvg-logo="2.png" group-title="A1TV ORF-Radio" radio=true,Radio Burgenland
+udp://@239.0.144.6:8208
+#EXTINF:-1 tvg-id="" tvg-num="1007" tvg-name="Radio Oberösterreich" tvg-logo="2.png" group-title="A1TV ORF-Radio" radio=true,Radio Oberösterreich
+udp://@239.0.144.7:8208
+#EXTINF:-1 tvg-id="" tvg-num="1008" tvg-name="Radio Salzburg" tvg-logo="2.png" group-title="A1TV ORF-Radio" radio=true,Radio Salzburg
+udp://@239.0.144.8:8208
+#EXTINF:-1 tvg-id="" tvg-num="1009" tvg-name="Radio Tirol" tvg-logo="2.png" group-title="A1TV ORF-Radio" radio=true,Radio Tirol
+udp://@239.0.144.9:8208
+#EXTINF:-1 tvg-id="" tvg-num="1010" tvg-name="Radio Vorarlberg" tvg-logo="2.png" group-title="A1TV ORF-Radio" radio=true,Radio Vorarlberg
+udp://@239.0.144.10:8208
+#EXTINF:-1 tvg-id="" tvg-num="1011" tvg-name="Radio Steiermark" tvg-logo="2.png" group-title="A1TV ORF-Radio" radio=true,Radio Steiermark
+udp://@239.0.144.11:8208
+#EXTINF:-1 tvg-id="" tvg-num="1012" tvg-name="Radio Kärnten" tvg-logo="2.png" group-title="A1TV ORF-Radio" radio=true,Radio Kärnten
+udp://@239.0.144.12:8208
